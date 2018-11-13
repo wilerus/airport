@@ -1,14 +1,14 @@
 <template>
-    <Chart />
+    <Flights />
 </template>
 
 <script lang="ts">
 import Vue from 'vue';
-import Chart from '../../components/chart/Chart.vue';
+import Flights from '../../components/flights/Flights.vue';
 
 export default Vue.extend({
     components: {
-        Chart
+        Flights
     }
 });
 </script>
