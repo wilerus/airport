@@ -1,0 +1,302 @@
+[
+    {
+      "time": "Mon Sep 20 1993 10:46:28 GMT+0000 (UTC)",
+      "destination": "Winfred",
+      "terminal": "A",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Sat Mar 20 1976 02:50:36 GMT+0000 (UTC)",
+      "destination": "Axis",
+      "terminal": "C",
+      "status": "Посадка"
+    },
+    {
+      "time": "Fri Apr 06 1984 16:00:43 GMT+0000 (UTC)",
+      "destination": "Rew",
+      "terminal": "A",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Thu Sep 18 1975 08:06:42 GMT+0000 (UTC)",
+      "destination": "Macdona",
+      "terminal": "C",
+      "status": "Посадка"
+    },
+    {
+      "time": "Mon Jun 27 1994 11:52:19 GMT+0000 (UTC)",
+      "destination": "Bowie",
+      "terminal": "C",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Sun Jan 27 1974 23:48:19 GMT+0000 (UTC)",
+      "destination": "Rosewood",
+      "terminal": "C",
+      "status": "Полёт"
+    },
+    {
+      "time": "Sun Jan 03 2010 12:33:46 GMT+0000 (UTC)",
+      "destination": "Lewis",
+      "terminal": "B",
+      "status": "Полёт"
+    },
+    {
+      "time": "Sat Oct 11 2003 11:40:29 GMT+0000 (UTC)",
+      "destination": "Interlochen",
+      "terminal": "A",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Sun Mar 05 2006 05:37:44 GMT+0000 (UTC)",
+      "destination": "Enoree",
+      "terminal": "A",
+      "status": "Полёт"
+    },
+    {
+      "time": "Fri Jan 17 2003 23:42:58 GMT+0000 (UTC)",
+      "destination": "Juarez",
+      "terminal": "A",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Tue Jan 10 1984 17:32:15 GMT+0000 (UTC)",
+      "destination": "Ypsilanti",
+      "terminal": "A",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Sat Jan 24 2009 23:02:33 GMT+0000 (UTC)",
+      "destination": "Calpine",
+      "terminal": "B",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Wed Feb 19 1986 13:11:10 GMT+0000 (UTC)",
+      "destination": "Brownlee",
+      "terminal": "C",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Tue Mar 21 1972 21:12:27 GMT+0000 (UTC)",
+      "destination": "Fairacres",
+      "terminal": "A",
+      "status": "Посадка"
+    },
+    {
+      "time": "Wed Nov 26 1975 22:47:28 GMT+0000 (UTC)",
+      "destination": "Tivoli",
+      "terminal": "C",
+      "status": "Посадка"
+    },
+    {
+      "time": "Sat Apr 11 2015 20:16:37 GMT+0000 (UTC)",
+      "destination": "Chestnut",
+      "terminal": "C",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Fri Feb 18 2000 08:37:33 GMT+0000 (UTC)",
+      "destination": "Chamizal",
+      "terminal": "C",
+      "status": "Полёт"
+    },
+    {
+      "time": "Mon Nov 07 2016 01:58:18 GMT+0000 (UTC)",
+      "destination": "Manchester",
+      "terminal": "A",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Mon Oct 11 1993 23:17:18 GMT+0000 (UTC)",
+      "destination": "Orick",
+      "terminal": "A",
+      "status": "Посадка"
+    },
+    {
+      "time": "Thu Oct 13 1994 06:33:26 GMT+0000 (UTC)",
+      "destination": "Morgandale",
+      "terminal": "C",
+      "status": "Полёт"
+    },
+    {
+      "time": "Wed Jul 28 1971 08:37:05 GMT+0000 (UTC)",
+      "destination": "Hessville",
+      "terminal": "A",
+      "status": "Полёт"
+    },
+    {
+      "time": "Tue Aug 12 1975 22:51:44 GMT+0000 (UTC)",
+      "destination": "Davenport",
+      "terminal": "C",
+      "status": "Полёт"
+    },
+    {
+      "time": "Sat Oct 17 1987 00:15:54 GMT+0000 (UTC)",
+      "destination": "Wells",
+      "terminal": "A",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Sun Feb 22 1981 11:12:08 GMT+0000 (UTC)",
+      "destination": "Savannah",
+      "terminal": "C",
+      "status": "Полёт"
+    },
+    {
+      "time": "Mon Jan 16 2017 11:57:18 GMT+0000 (UTC)",
+      "destination": "Maplewood",
+      "terminal": "C",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Wed Nov 27 1974 22:20:25 GMT+0000 (UTC)",
+      "destination": "Tolu",
+      "terminal": "C",
+      "status": "Полёт"
+    },
+    {
+      "time": "Thu May 06 1993 13:14:18 GMT+0000 (UTC)",
+      "destination": "Elrama",
+      "terminal": "C",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Sun Dec 15 1996 12:33:25 GMT+0000 (UTC)",
+      "destination": "Dyckesville",
+      "terminal": "B",
+      "status": "Полёт"
+    },
+    {
+      "time": "Sat Feb 23 2013 03:39:54 GMT+0000 (UTC)",
+      "destination": "Stockdale",
+      "terminal": "C",
+      "status": "Полёт"
+    },
+    {
+      "time": "Thu Sep 13 2012 01:15:55 GMT+0000 (UTC)",
+      "destination": "Loyalhanna",
+      "terminal": "A",
+      "status": "Посадка"
+    },
+    {
+      "time": "Thu Jun 18 1998 07:23:49 GMT+0000 (UTC)",
+      "destination": "Emison",
+      "terminal": "C",
+      "status": "Посадка"
+    },
+    {
+      "time": "Tue Aug 26 2008 08:01:00 GMT+0000 (UTC)",
+      "destination": "Newcastle",
+      "terminal": "C",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Thu Jul 03 1986 17:11:52 GMT+0000 (UTC)",
+      "destination": "Brownsville",
+      "terminal": "C",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Wed Apr 23 2003 15:01:42 GMT+0000 (UTC)",
+      "destination": "Sabillasville",
+      "terminal": "B",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Thu Sep 05 1991 09:29:55 GMT+0000 (UTC)",
+      "destination": "Ventress",
+      "terminal": "C",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Fri Jan 22 1993 08:18:23 GMT+0000 (UTC)",
+      "destination": "Vicksburg",
+      "terminal": "B",
+      "status": "Посадка"
+    },
+    {
+      "time": "Tue Aug 12 2008 21:45:29 GMT+0000 (UTC)",
+      "destination": "Bayview",
+      "terminal": "A",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Tue May 13 1980 06:10:17 GMT+0000 (UTC)",
+      "destination": "Rushford",
+      "terminal": "A",
+      "status": "Неизвестно"
+    },
+    {
+      "time": "Sun Jun 29 2008 20:00:57 GMT+0000 (UTC)",
+      "destination": "Colton",
+      "terminal": "C",
+      "status": "Полёт"
+    },
+    {
+      "time": "Wed Sep 28 2005 13:21:11 GMT+0000 (UTC)",
+      "destination": "Dennard",
+      "terminal": "A",
+      "status": "Полёт"
+    },
+    {
+      "time": "Thu Jan 06 1977 11:57:46 GMT+0000 (UTC)",
+      "destination": "Ebro",
+      "terminal": "C",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Mon Sep 01 1997 07:40:52 GMT+0000 (UTC)",
+      "destination": "Mooresburg",
+      "terminal": "B",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Fri Aug 03 2018 08:18:59 GMT+0000 (UTC)",
+      "destination": "Cornucopia",
+      "terminal": "B",
+      "status": "Полёт"
+    },
+    {
+      "time": "Tue Aug 29 2017 14:02:00 GMT+0000 (UTC)",
+      "destination": "Yardville",
+      "terminal": "C",
+      "status": "Полёт"
+    },
+    {
+      "time": "Wed May 09 1979 22:59:05 GMT+0000 (UTC)",
+      "destination": "Glenbrook",
+      "terminal": "C",
+      "status": "Посадка"
+    },
+    {
+      "time": "Sat Jul 27 2013 04:38:18 GMT+0000 (UTC)",
+      "destination": "Welch",
+      "terminal": "C",
+      "status": "Посадка"
+    },
+    {
+      "time": "Mon Sep 24 2001 05:57:18 GMT+0000 (UTC)",
+      "destination": "Darbydale",
+      "terminal": "B",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Sat Feb 09 2008 03:37:14 GMT+0000 (UTC)",
+      "destination": "Hall",
+      "terminal": "B",
+      "status": "Посадка"
+    },
+    {
+      "time": "Sat Jun 25 1983 12:57:00 GMT+0000 (UTC)",
+      "destination": "Whitehaven",
+      "terminal": "B",
+      "status": "Обрушился"
+    },
+    {
+      "time": "Mon Oct 23 2006 03:42:52 GMT+0000 (UTC)",
+      "destination": "Dawn",
+      "terminal": "A",
+      "status": "Полёт"
+    }
+  ]

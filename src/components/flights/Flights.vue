@@ -1,24 +1,40 @@
 <template>
-  <v-card>
+
+  <v-card class="flight-container">
+      <v-toolbar>
+            <v-toolbar-title>Расписание полётов</v-toolbar-title>
+            <v-spacer></v-spacer>
+      <v-checkbox
+        label="Вылетающие"
+        v-model="showOutgoing"
+      ></v-checkbox>
+      <v-checkbox
+        label="Прилетающие"
+       v-model="showIngoing"
+      ></v-checkbox>
+<v-checkbox
+        label="Задержанные"
+       v-model="showDelayed"
+      ></v-checkbox>
+          </v-toolbar>
     <v-card-title>
-      Nutrition
-      <v-spacer></v-spacer>
-      <v-text-field v-model="search" append-icon="search" label="Search" single-line hide-details></v-text-field>
+      <v-text-field v-model="search" append-icon="search" label="Поиск" single-line hide-details></v-text-field>
     </v-card-title>
+    <v-data-table :custom-filter="customFilter" :pagination.sync="pagination" :headers="headers" :items="flightsData" :search="search" :loading="loading">
     <v-progress-linear slot="progress" color="blue" indeterminate></v-progress-linear>
-    <v-data-table :headers="headers" :items="flightsData" :search="search" :loading="loading">
       <template slot="items" slot-scope="props">
-        <td>{{ props.item.name }}</td>
-        <td class="text-xs-right">{{ props.item.calories }}</td>
-        <td class="text-xs-right">{{ props.item.fat }}</td>
-        <td class="text-xs-right">{{ props.item.carbs }}</td>
-        <td class="text-xs-right">{{ props.item.protein }}</td>
-        <td class="text-xs-right">{{ props.item.iron }}</td>
+        <td >{{ props.item.time }}</td>
+        <td >{{ props.item.destination }}</td>
+        <td >{{ props.item.terminal }}</td>
+        <td >{{ props.item.status }}</td>
       </template>
       <v-alert slot="no-results" :value="true" color="error" icon="warning">
-        Your search for "{{ search }}" found no results.
+        Ваш поиск "{{ search }}" не выдал результатов.
       </v-alert>
     </v-data-table>
+          <div class="text-xs-center pt-2">
+        <v-pagination v-model="pagination.page" :length="pages"></v-pagination>
+      </div>
   </v-card>
 </template>
 
@@ -26,6 +42,16 @@
 import Vue from 'vue';
 
 export default Vue.extend({
+    data() {
+        return {
+            search: '',
+            pagination: {},
+            selected: [],
+            showOutgoing: true,
+            showIngoing: true,
+            showDelayed: true
+        };
+    },
     computed: {
         headers(): any {
             return this.$store.state.FlightsStore.headers;
@@ -36,15 +62,30 @@ export default Vue.extend({
         loading(): any {
             return this.$store.state.FlightsStore.loading;
         },
-        search(): any {
-            return this.$store.state.FlightsStore.search;
+        pages(): any {
+            //@ts-ignore
+            return Math.ceil(this.$store.state.FlightsStore.flightsData.legnth / this.pagination.rowsPerPage);
         }
     },
     created() {
         this.$store.dispatch('updateFlightsData');
+    },
+    methods: {
+        //@ts-ignore
+        customFilter(items, search, filter): any {
+            search = search.toString().toLowerCase();
+
+            return items.filter(
+                (item: any) =>
+                    (this.showOutgoing || item.status !== 'Вылетает') && (this.showIngoing || item.status !== 'Прилетает') && (this.showDelayed || item.status !== 'Задержан')
+            );
+        }
     }
 });
 </script>
 
 <style>
+.flight-container {
+    margin: 1rem;
+}
 </style>

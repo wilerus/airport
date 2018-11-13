@@ -18,12 +18,13 @@ export default new Vue({
     },
     el: '#vue-app',
     template: `
+    <v-app dark>
   <div class="body-container">
-  <NavigationToolbar/>
   <transition name="slide-fade">
   <router-view class="content-container"></router-view>
   </transition>
 </div>
+</v-app>
   `,
     store: ApplicationStore,
     router: ApplicationRouter
