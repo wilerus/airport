@@ -94,7 +94,7 @@ export default Vue.extend({
 <style>
 @media (max-width: 800px) and (min-width: 501px) {
     .flights-toolbar {
-        height: 80px;
+        height: 90px;
     }
     .flights-toolbar > .v-toolbar__content {
         display: flex;
@@ -103,6 +103,9 @@ export default Vue.extend({
     .v-toolbar__title {
         margin-bottom: 1rem;
         height: 40px;
+    }
+    .card-title {
+        margin-top: 50px;
     }
 }
 @media (max-width: 500px) {
@@ -116,12 +119,18 @@ export default Vue.extend({
     .v-toolbar__title {
         height: 40px;
     }
+
+    .card-title {
+        margin-top: 60px;
+    }
+}
+@media (min-width: 801px) {
+    .card-title {
+        margin-top: 20px;
+    }
 }
 .flight-container {
     margin: 1rem;
-}
-.card-title {
-    margin-top: 20px;
 }
 .checkbox-container {
     display: flex;
