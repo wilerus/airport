@@ -32,15 +32,15 @@ const store: ChartStore = {
         search: '',
         loading: false,
         headers: [
+            { text: 'Тип', value: 'number' },
             {
                 text: 'Время',
-                align: 'left',
-                sortable: false,
                 value: 'time'
             },
             { text: 'Место назначения', value: 'destination' },
             { text: 'Терминал', value: 'terminal' },
-            { text: 'Статус', value: 'status' }
+            { text: 'Статус', value: 'status' },
+            { text: 'Тип', value: 'type' }
         ],
         flightsData: []
     },
@@ -70,5 +70,7 @@ const store: ChartStore = {
         }
     }
 };
+
+export { TimelineData };
 
 export default store;

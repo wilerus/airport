@@ -1,302 +1,802 @@
 [
-    {
-      "time": "Mon Sep 20 1993 10:46:28 GMT+0000 (UTC)",
-      "destination": "Winfred",
-      "terminal": "A",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Sat Mar 20 1976 02:50:36 GMT+0000 (UTC)",
-      "destination": "Axis",
-      "terminal": "C",
-      "status": "Посадка"
-    },
-    {
-      "time": "Fri Apr 06 1984 16:00:43 GMT+0000 (UTC)",
-      "destination": "Rew",
-      "terminal": "A",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Thu Sep 18 1975 08:06:42 GMT+0000 (UTC)",
-      "destination": "Macdona",
-      "terminal": "C",
-      "status": "Посадка"
-    },
-    {
-      "time": "Mon Jun 27 1994 11:52:19 GMT+0000 (UTC)",
-      "destination": "Bowie",
-      "terminal": "C",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Sun Jan 27 1974 23:48:19 GMT+0000 (UTC)",
-      "destination": "Rosewood",
-      "terminal": "C",
-      "status": "Полёт"
-    },
-    {
-      "time": "Sun Jan 03 2010 12:33:46 GMT+0000 (UTC)",
-      "destination": "Lewis",
-      "terminal": "B",
-      "status": "Полёт"
-    },
-    {
-      "time": "Sat Oct 11 2003 11:40:29 GMT+0000 (UTC)",
-      "destination": "Interlochen",
-      "terminal": "A",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Sun Mar 05 2006 05:37:44 GMT+0000 (UTC)",
-      "destination": "Enoree",
-      "terminal": "A",
-      "status": "Полёт"
-    },
-    {
-      "time": "Fri Jan 17 2003 23:42:58 GMT+0000 (UTC)",
-      "destination": "Juarez",
-      "terminal": "A",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Tue Jan 10 1984 17:32:15 GMT+0000 (UTC)",
-      "destination": "Ypsilanti",
-      "terminal": "A",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Sat Jan 24 2009 23:02:33 GMT+0000 (UTC)",
-      "destination": "Calpine",
-      "terminal": "B",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Wed Feb 19 1986 13:11:10 GMT+0000 (UTC)",
-      "destination": "Brownlee",
-      "terminal": "C",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Tue Mar 21 1972 21:12:27 GMT+0000 (UTC)",
-      "destination": "Fairacres",
-      "terminal": "A",
-      "status": "Посадка"
-    },
-    {
-      "time": "Wed Nov 26 1975 22:47:28 GMT+0000 (UTC)",
-      "destination": "Tivoli",
-      "terminal": "C",
-      "status": "Посадка"
-    },
-    {
-      "time": "Sat Apr 11 2015 20:16:37 GMT+0000 (UTC)",
-      "destination": "Chestnut",
-      "terminal": "C",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Fri Feb 18 2000 08:37:33 GMT+0000 (UTC)",
-      "destination": "Chamizal",
-      "terminal": "C",
-      "status": "Полёт"
-    },
-    {
-      "time": "Mon Nov 07 2016 01:58:18 GMT+0000 (UTC)",
-      "destination": "Manchester",
-      "terminal": "A",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Mon Oct 11 1993 23:17:18 GMT+0000 (UTC)",
-      "destination": "Orick",
-      "terminal": "A",
-      "status": "Посадка"
-    },
-    {
-      "time": "Thu Oct 13 1994 06:33:26 GMT+0000 (UTC)",
-      "destination": "Morgandale",
-      "terminal": "C",
-      "status": "Полёт"
-    },
-    {
-      "time": "Wed Jul 28 1971 08:37:05 GMT+0000 (UTC)",
-      "destination": "Hessville",
-      "terminal": "A",
-      "status": "Полёт"
-    },
-    {
-      "time": "Tue Aug 12 1975 22:51:44 GMT+0000 (UTC)",
-      "destination": "Davenport",
-      "terminal": "C",
-      "status": "Полёт"
-    },
-    {
-      "time": "Sat Oct 17 1987 00:15:54 GMT+0000 (UTC)",
-      "destination": "Wells",
-      "terminal": "A",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Sun Feb 22 1981 11:12:08 GMT+0000 (UTC)",
-      "destination": "Savannah",
-      "terminal": "C",
-      "status": "Полёт"
-    },
-    {
-      "time": "Mon Jan 16 2017 11:57:18 GMT+0000 (UTC)",
-      "destination": "Maplewood",
-      "terminal": "C",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Wed Nov 27 1974 22:20:25 GMT+0000 (UTC)",
-      "destination": "Tolu",
-      "terminal": "C",
-      "status": "Полёт"
-    },
-    {
-      "time": "Thu May 06 1993 13:14:18 GMT+0000 (UTC)",
-      "destination": "Elrama",
-      "terminal": "C",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Sun Dec 15 1996 12:33:25 GMT+0000 (UTC)",
-      "destination": "Dyckesville",
-      "terminal": "B",
-      "status": "Полёт"
-    },
-    {
-      "time": "Sat Feb 23 2013 03:39:54 GMT+0000 (UTC)",
-      "destination": "Stockdale",
-      "terminal": "C",
-      "status": "Полёт"
-    },
-    {
-      "time": "Thu Sep 13 2012 01:15:55 GMT+0000 (UTC)",
-      "destination": "Loyalhanna",
-      "terminal": "A",
-      "status": "Посадка"
-    },
-    {
-      "time": "Thu Jun 18 1998 07:23:49 GMT+0000 (UTC)",
-      "destination": "Emison",
-      "terminal": "C",
-      "status": "Посадка"
-    },
-    {
-      "time": "Tue Aug 26 2008 08:01:00 GMT+0000 (UTC)",
-      "destination": "Newcastle",
-      "terminal": "C",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Thu Jul 03 1986 17:11:52 GMT+0000 (UTC)",
-      "destination": "Brownsville",
-      "terminal": "C",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Wed Apr 23 2003 15:01:42 GMT+0000 (UTC)",
-      "destination": "Sabillasville",
-      "terminal": "B",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Thu Sep 05 1991 09:29:55 GMT+0000 (UTC)",
-      "destination": "Ventress",
-      "terminal": "C",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Fri Jan 22 1993 08:18:23 GMT+0000 (UTC)",
-      "destination": "Vicksburg",
-      "terminal": "B",
-      "status": "Посадка"
-    },
-    {
-      "time": "Tue Aug 12 2008 21:45:29 GMT+0000 (UTC)",
-      "destination": "Bayview",
-      "terminal": "A",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Tue May 13 1980 06:10:17 GMT+0000 (UTC)",
-      "destination": "Rushford",
-      "terminal": "A",
-      "status": "Неизвестно"
-    },
-    {
-      "time": "Sun Jun 29 2008 20:00:57 GMT+0000 (UTC)",
-      "destination": "Colton",
-      "terminal": "C",
-      "status": "Полёт"
-    },
-    {
-      "time": "Wed Sep 28 2005 13:21:11 GMT+0000 (UTC)",
-      "destination": "Dennard",
-      "terminal": "A",
-      "status": "Полёт"
-    },
-    {
-      "time": "Thu Jan 06 1977 11:57:46 GMT+0000 (UTC)",
-      "destination": "Ebro",
-      "terminal": "C",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Mon Sep 01 1997 07:40:52 GMT+0000 (UTC)",
-      "destination": "Mooresburg",
-      "terminal": "B",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Fri Aug 03 2018 08:18:59 GMT+0000 (UTC)",
-      "destination": "Cornucopia",
-      "terminal": "B",
-      "status": "Полёт"
-    },
-    {
-      "time": "Tue Aug 29 2017 14:02:00 GMT+0000 (UTC)",
-      "destination": "Yardville",
-      "terminal": "C",
-      "status": "Полёт"
-    },
-    {
-      "time": "Wed May 09 1979 22:59:05 GMT+0000 (UTC)",
-      "destination": "Glenbrook",
-      "terminal": "C",
-      "status": "Посадка"
-    },
-    {
-      "time": "Sat Jul 27 2013 04:38:18 GMT+0000 (UTC)",
-      "destination": "Welch",
-      "terminal": "C",
-      "status": "Посадка"
-    },
-    {
-      "time": "Mon Sep 24 2001 05:57:18 GMT+0000 (UTC)",
-      "destination": "Darbydale",
-      "terminal": "B",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Sat Feb 09 2008 03:37:14 GMT+0000 (UTC)",
-      "destination": "Hall",
-      "terminal": "B",
-      "status": "Посадка"
-    },
-    {
-      "time": "Sat Jun 25 1983 12:57:00 GMT+0000 (UTC)",
-      "destination": "Whitehaven",
-      "terminal": "B",
-      "status": "Обрушился"
-    },
-    {
-      "time": "Mon Oct 23 2006 03:42:52 GMT+0000 (UTC)",
-      "destination": "Dawn",
-      "terminal": "A",
-      "status": "Полёт"
-    }
-  ]
+  {
+    "number": 862,
+    "time": "Tue Feb 23 2010 18:53:47 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Brady",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 984,
+    "time": "Fri Dec 16 2011 15:41:12 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Succasunna",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 788,
+    "time": "Sun Mar 13 2011 12:01:17 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Edneyville",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 471,
+    "time": "Sun Feb 12 2006 20:36:07 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Delshire",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 529,
+    "time": "Tue Mar 26 1996 19:37:19 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Stockwell",
+    "terminal": "D",
+    "type": "Вылетает"
+  },
+  {
+    "number": 494,
+    "time": "Tue Jun 05 1990 15:55:50 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Aberdeen",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 967,
+    "time": "Tue Aug 11 1981 08:50:40 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Columbus",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 927,
+    "time": "Tue Nov 15 1988 02:18:20 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Watchtower",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 557,
+    "time": "Fri Sep 22 1995 05:48:58 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Freetown",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 426,
+    "time": "Wed Apr 19 1989 13:50:06 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Smock",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 1000,
+    "time": "Wed Jan 25 1978 14:45:59 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Haring",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 822,
+    "time": "Wed Apr 02 1980 17:01:25 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Edinburg",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 787,
+    "time": "Wed Mar 02 2011 09:41:01 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Kempton",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 578,
+    "time": "Tue Nov 27 2012 01:15:29 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Allendale",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 850,
+    "time": "Sat Mar 05 1988 11:22:44 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Sattley",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 497,
+    "time": "Sat Oct 01 1977 19:52:58 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Bison",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 860,
+    "time": "Wed Jun 07 1972 02:03:12 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Hoagland",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 594,
+    "time": "Mon Feb 19 2001 04:24:00 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Holcombe",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 553,
+    "time": "Fri Nov 29 1985 13:09:46 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Kohatk",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 648,
+    "time": "Sat May 18 1985 10:04:10 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Aurora",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 439,
+    "time": "Wed Aug 20 1997 08:18:40 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Utting",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 915,
+    "time": "Tue Mar 25 1986 13:39:43 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Strong",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 864,
+    "time": "Sat Aug 20 1977 01:39:15 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Vincent",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 637,
+    "time": "Mon Apr 27 2009 12:32:16 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Fairacres",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 428,
+    "time": "Thu Jul 16 1981 16:51:44 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Moscow",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 728,
+    "time": "Sat Jan 20 2007 11:41:29 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Matheny",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 716,
+    "time": "Tue Oct 22 1985 09:28:08 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Gracey",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 997,
+    "time": "Thu Nov 19 2009 10:04:31 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Blanford",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 485,
+    "time": "Sun Nov 04 2001 21:48:19 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Eden",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 717,
+    "time": "Sun Nov 12 1978 08:00:36 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Martinsville",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 517,
+    "time": "Sat Jul 07 1973 06:24:53 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Munjor",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 784,
+    "time": "Fri Nov 07 2003 05:16:47 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Datil",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 983,
+    "time": "Sun Apr 16 2017 20:50:34 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Eastmont",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 648,
+    "time": "Wed Nov 04 1992 13:18:20 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Rew",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 571,
+    "time": "Wed Oct 08 1997 16:25:34 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Windsor",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 856,
+    "time": "Fri Dec 25 1970 22:34:01 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Riceville",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 980,
+    "time": "Fri Jul 19 2002 05:13:50 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Dale",
+    "terminal": "D",
+    "type": "Вылетает"
+  },
+  {
+    "number": 797,
+    "time": "Fri Mar 24 1989 07:17:05 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Leroy",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 916,
+    "time": "Tue Jan 06 1987 13:52:38 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Tuskahoma",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 882,
+    "time": "Thu May 20 1976 19:07:32 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Finzel",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 400,
+    "time": "Sat Jul 21 2007 16:06:59 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Lafferty",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 802,
+    "time": "Tue Oct 09 1984 06:33:05 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Beechmont",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 749,
+    "time": "Thu Apr 17 1997 12:34:05 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Magnolia",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 463,
+    "time": "Fri Feb 20 1987 16:57:27 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Hamilton",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 738,
+    "time": "Fri Aug 14 2009 02:41:38 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Wilsonia",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 619,
+    "time": "Tue Jan 06 1998 18:34:33 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Turpin",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 471,
+    "time": "Mon Sep 21 1981 07:35:46 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Boonville",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 578,
+    "time": "Mon Jul 19 1999 05:30:26 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Tyro",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 848,
+    "time": "Thu Sep 28 1972 20:46:18 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Alamo",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 676,
+    "time": "Fri Jan 11 1991 03:51:59 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Allamuchy",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 695,
+    "time": "Fri Oct 09 1970 12:33:26 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Retsof",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 834,
+    "time": "Tue Oct 07 1997 21:06:40 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Williams",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 781,
+    "time": "Fri Jul 19 1985 04:08:05 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Hardyville",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 760,
+    "time": "Mon Feb 24 1992 15:43:25 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Kieler",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 467,
+    "time": "Sun Apr 06 1997 02:06:47 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Sussex",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 458,
+    "time": "Sun Apr 19 2015 05:37:21 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Corriganville",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 501,
+    "time": "Mon Mar 03 2014 06:37:13 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Benson",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 958,
+    "time": "Sat Aug 04 2012 18:21:01 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Tuttle",
+    "terminal": "D",
+    "type": "Вылетает"
+  },
+  {
+    "number": 657,
+    "time": "Sat Jun 20 1992 09:40:34 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Brownsville",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 865,
+    "time": "Fri Oct 24 1980 16:12:03 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Lisco",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 413,
+    "time": "Sat Feb 04 1978 00:25:37 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Barronett",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 543,
+    "time": "Thu May 10 2001 12:01:17 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Chalfant",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 968,
+    "time": "Mon Dec 22 2008 21:00:50 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Lydia",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 645,
+    "time": "Sun May 24 2015 11:30:53 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Cucumber",
+    "terminal": "A",
+    "type": "Прилетает"
+  },
+  {
+    "number": 442,
+    "time": "Sat Jun 16 2018 09:46:37 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Bellamy",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 413,
+    "time": "Thu May 23 2013 16:40:36 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Falmouth",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 478,
+    "time": "Tue Jul 13 1976 04:13:08 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Zortman",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 554,
+    "time": "Thu Nov 14 2002 10:45:22 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Sims",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 565,
+    "time": "Sat Jun 06 1981 07:46:37 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Grayhawk",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 773,
+    "time": "Fri Jul 18 1986 17:05:46 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Volta",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 886,
+    "time": "Tue May 21 1985 00:00:36 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Wells",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 825,
+    "time": "Tue May 11 1982 00:01:19 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Finderne",
+    "terminal": "D",
+    "type": "Вылетает"
+  },
+  {
+    "number": 992,
+    "time": "Tue Aug 14 2001 00:49:37 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Starks",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 410,
+    "time": "Sun Dec 30 1990 01:07:37 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Gibbsville",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 562,
+    "time": "Tue Dec 08 1970 16:32:57 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Saticoy",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 422,
+    "time": "Mon Dec 01 2008 07:49:40 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Glendale",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 540,
+    "time": "Thu Aug 05 1999 18:38:11 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Salunga",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 500,
+    "time": "Thu Aug 31 1972 11:11:38 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Bordelonville",
+    "terminal": "D",
+    "type": "Вылетает"
+  },
+  {
+    "number": 490,
+    "time": "Thu Mar 12 2015 00:38:23 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Fedora",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 957,
+    "time": "Mon Jan 01 1979 18:29:04 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Detroit",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 631,
+    "time": "Mon Feb 24 1986 12:55:14 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Greenfields",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 980,
+    "time": "Thu May 19 2016 16:20:13 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Dyckesville",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 598,
+    "time": "Sat Dec 10 1977 14:21:56 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Cavalero",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 946,
+    "time": "Fri Mar 04 2005 08:09:24 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Richmond",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 657,
+    "time": "Fri Feb 25 1977 07:21:39 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Hanover",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 960,
+    "time": "Mon Sep 24 1984 11:46:00 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Cawood",
+    "terminal": "B",
+    "type": "Вылетает"
+  },
+  {
+    "number": 938,
+    "time": "Fri Apr 26 1996 04:56:59 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Outlook",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 731,
+    "time": "Mon Nov 25 2013 22:20:01 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Moquino",
+    "terminal": "B",
+    "type": "Прилетает"
+  },
+  {
+    "number": 516,
+    "time": "Thu Jul 29 2004 21:34:11 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Dalton",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 453,
+    "time": "Fri Aug 15 2003 10:14:49 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Greenbush",
+    "terminal": "D",
+    "type": "Вылетает"
+  },
+  {
+    "number": 497,
+    "time": "Sat Dec 13 2014 19:13:08 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Foxworth",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 719,
+    "time": "Sat Jun 02 2012 06:36:31 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Zarephath",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 792,
+    "time": "Wed Nov 01 2006 10:49:07 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Deseret",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 970,
+    "time": "Tue Nov 05 1974 03:16:54 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Topaz",
+    "terminal": "C",
+    "type": "Прилетает"
+  },
+  {
+    "number": 773,
+    "time": "Thu Sep 29 2011 13:01:20 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Elliott",
+    "terminal": "D",
+    "type": "Прилетает"
+  },
+  {
+    "number": 939,
+    "time": "Thu Dec 31 1987 08:46:08 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Belvoir",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 482,
+    "time": "Tue Jun 12 2001 08:22:02 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Harviell",
+    "terminal": "A",
+    "type": "Вылетает"
+  },
+  {
+    "number": 750,
+    "time": "Sun Dec 22 1974 13:44:33 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Darrtown",
+    "terminal": "C",
+    "type": "Вылетает"
+  },
+  {
+    "number": 651,
+    "time": "Sat Apr 27 2013 08:53:44 GMT+0000 (UTC)",
+    "status": "По расписанию",
+    "destination": "Jardine",
+    "terminal": "D",
+    "type": "Вылетает"
+  },
+  {
+    "number": 779,
+    "time": "Mon Sep 25 2006 19:04:57 GMT+0000 (UTC)",
+    "status": "Задержан",
+    "destination": "Boykin",
+    "terminal": "A",
+    "type": "Прилетает"
+  }
+]
